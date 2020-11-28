@@ -1,0 +1,54 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Reimu  >Hokkai, a part of Makai."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "Reimu was caught by Byakuren, and was unable to return home."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "She looked for the ship that brought her to Hokkai, but..."
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "<r$Reimu  >\"Why doesn't this run-down old ship have enough fuel to get home!?"
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "<l$> I can't just leave the shrine unattended for days.\""
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "Reimu tried getting the ship working through trial and error,"
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "but she couldn't get it to fly again."
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "　"
+            ]
+        },
+        "7_1": {
+            "lines": [
+                "<c$Ending No.08 — Was the trip out safe?$>"
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "<c$Go for a one-credit clear!$>"
+            ]
+        }
+    }
+}

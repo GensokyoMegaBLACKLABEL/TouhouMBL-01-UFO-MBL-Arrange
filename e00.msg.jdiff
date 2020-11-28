@@ -1,0 +1,46 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Reimu  >Hokkai, a part of Makai."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "Reimu was caught by Byakuren, and was unable to return home."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "The only creatures around were youkai..."
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "<r$Reimu  >\"What on earth? These are no normal youkai.",
+                "<l$> I need to get home soon to start preparing again or I'll never be able to win.\""
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "Reimu gave up on defeating the youkai around her and made",
+                "getting back to the shrine her top priority."
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "　"
+            ]
+        },
+        "5_1": {
+            "lines": [
+                "<c$Ending No.07 — Collect lots of items before invading Makai.$>"
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "<c$Go for a one-credit clear!$>"
+            ]
+        }
+    }
+}

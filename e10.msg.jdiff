@@ -1,0 +1,230 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Kanako  $Sanae  >The Moriya Shrine, up on the mountain."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "Cherry blossoms were blooming at its foot, but the mountain tops were still cold and covered"
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "with traces of snow. Few humans ever came this far, even when there wasn't snow."
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "<r$Kanako  >\"It looks like it was pretty rough."
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "<l$> Youkai hunting is a tough job.\""
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "<r$Sanae  >\"Yes, it really was."
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "<l$> I started chasing a ship, but before I knew it I'd been",
+                "<l$> brought to a world I couldn't escape from.\""
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "<r$Sanae  >\"So, I asked a human there for help and made it home somehow.\""
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "<r$Kanako  >\"Hmmm."
+            ]
+        },
+        "9_0": {
+            "lines": [
+                "<l$> So, this is in return for that favor, then?\""
+            ]
+        },
+        "10_0": {
+            "lines": [
+                "<r$Kanako  >\" ‘Help Wanted Building Myouren Temple,",
+                "<l$> Now Seeking Wood & Clay Workers’ \""
+            ]
+        },
+        "11_0": {
+            "lines": [
+                "<r$Sanae  >\"Well, uh, she said she wanted to build a temple, so I thought",
+                "<l$> it would be nice to help her out."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "<l$> Look, they need people of your and Lady Suwako's talents.\""
+            ]
+        },
+        "13_0": {
+            "lines": [
+                "<r$Kanako  >\"It's just a lot to ask in return for a ride on a ship.\""
+            ]
+        },
+        "14_0": {
+            "lines": [
+                "<r$Sanae  >\"But, I didn't have anyway to get home."
+            ]
+        },
+        "15_0": {
+            "lines": [
+                "<r$Kanako  >\"Well, anyway... Ah, what was her name again?\""
+            ]
+        },
+        "16_0": {
+            "lines": [
+                "<r$Sanae  >\"Byakuren. Byakuren Hijiri.\""
+            ]
+        },
+        "17_0": {
+            "lines": [
+                "<r$Kanako  >\"How suspicious.\""
+            ]
+        },
+        "18_0": {
+            "lines": [
+                "<r$Kanako  >\"You said she was sealed underground for a long time, but",
+                "<l$> the first thing she wants to do is build a temple?\""
+            ]
+        },
+        "19_0": {
+            "lines": [
+                "<r$Sanae  >\"Hm, that's a good point."
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "<l$> I was worried about how to get home from Makai, so I forgot.\""
+            ]
+        },
+        "21_0": {
+            "lines": [
+                "<r$Kanako  >\"No matter, why don't we help her out, anyway?"
+            ]
+        },
+        "22_0": {
+            "lines": [
+                "<l$> That will let us size up this Byakuren person.\""
+            ]
+        },
+        "23_0": {
+            "lines": [
+                "<r$Sanae  >\"Oh, thank you!\""
+            ]
+        },
+        "24_0": {
+            "lines": [
+                "<r$Kanako  >\"You're gonna help out, too.\""
+            ]
+        },
+        "25_0": {
+            "lines": [
+                "<r$Sanae  >\"Well, uh, I'm not that good at manual labor...\""
+            ]
+        },
+        "26_0": {
+            "lines": [
+                "And so the Myouren Temple was built by Kanako and Suwako."
+            ]
+        },
+        "27_0": {
+            "lines": [
+                "It was completed in a flash. Suwako made the earth flat,",
+                "brought down the ship, and it was finished."
+            ]
+        },
+        "28_0": {
+            "lines": [
+                "Kanako gazed intently at Byakuren and the youkai around her."
+            ]
+        },
+        "29_0": {
+            "lines": [
+                "Byakuren was revered by the youkai."
+            ]
+        },
+        "30_0": {
+            "lines": [
+                "Kanako thought it was odd that a monk that'd build a temple",
+                "like this would be so revered by youkai."
+            ]
+        },
+        "31_0": {
+            "lines": [
+                "Byakuren always dealt frankly and truthfully with youkai and humans."
+            ]
+        },
+        "32_0": {
+            "lines": [
+                "She turned to the doubt-filled Kanako and thanked her profusely."
+            ]
+        },
+        "33_0": {
+            "lines": [
+                "\"You're the god of the mountain, right? I could tell just by looking at you.\""
+            ]
+        },
+        "34_0": {
+            "lines": [
+                "So saying, she began explaining her circumstances."
+            ]
+        },
+        "35_0": {
+            "lines": [
+                "Where she was born,"
+            ]
+        },
+        "36_0": {
+            "lines": [
+                "the sort of life she'd lived,"
+            ]
+        },
+        "37_0": {
+            "lines": [
+                "and why she'd been sealed away."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "Kanako didn't sense a shred of falsehood in her story."
+            ]
+        },
+        "39_0": {
+            "lines": [
+                "\"This monk is certainly no ordinary person.\""
+            ]
+        },
+        "40_0": {
+            "lines": [
+                "Kanako was even more convinced they'd need to exercise caution."
+            ]
+        },
+        "41_0": {
+            "lines": [
+                "　　"
+            ]
+        },
+        "41_1": {
+            "lines": [
+                "<c$Ending No.05 — Byakuren is really a nice person.$>"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "<c$Congratulations, all clear! Just as I'd expected!$>"
+            ]
+        }
+    }
+}

@@ -1,0 +1,238 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Reimu  $Marisa  $Byakuren  $Minamitsu  >The Hakurei Shrine."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "It's a shrine on the eastern edge of Gensokyo."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "There was little shade of snow left on the shrine grounds."
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "The cherry blossoms would probably be out soon."
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "<r$Reimu  >\"Makai was just so creepy."
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "<l$> That ship wasn't a treasure ship or anything, it was just",
+                "<l$> a youkai ship bound for Makai."
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "<l$> So boring... and it was totally empty.\""
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "<r$Marisa  >\"Was it? Wait, you went to Makai?\""
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "<r$Reimu  >\"Somewhere called Hokkai, out in the sticks of Makai.\""
+            ]
+        },
+        "9_0": {
+            "lines": [
+                "<r$Marisa  >\"Still, if that ship wasn't a treasure ship,",
+                "<l$> I'm not really that interested in it."
+            ]
+        },
+        "10_0": {
+            "lines": [
+                "<l$> Well, what happened to it, anyway?\""
+            ]
+        },
+        "11_0": {
+            "lines": [
+                "<r$Reimu  >\"They say it's still floating around out there.",
+                "<l$> You haven't seen it?\""
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "<r$Marisa  >\"Oh, my spring hibernation's been terrible lately.",
+                "<l$> I haven't seen it at all.\""
+            ]
+        },
+        "13_0": {
+            "lines": [
+                "<r$Reimu  >\"The next time I see it, I'm going to board it again.\""
+            ]
+        },
+        "14_0": {
+            "lines": [
+                "The next day, Reimu found the ship flying through the sky and boarded it once more."
+            ]
+        },
+        "15_0": {
+            "lines": [
+                "<r$Reimu  >\"I finally found you. Why are you still flying around?\""
+            ]
+        },
+        "16_0": {
+            "lines": [
+                "<r$Byakuren  >\"It feels like I've been born again, being able to fly",
+                "<l$> around up here. It's so much nicer than Makai.\""
+            ]
+        },
+        "17_0": {
+            "lines": [
+                "<r$Minamitsu  >\"Yes, so that's why we're thinking about making this ship",
+                "<l$> into a Gensokyo sightseeing cruise ship.\""
+            ]
+        },
+        "18_0": {
+            "lines": [
+                "<r$Reimu  >\"Sightseeing... Where do you all live, anyway?\""
+            ]
+        },
+        "19_0": {
+            "lines": [
+                "<r$Byakuren  >\"The temple I lived in long ago is gone now."
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "<l$> Well, anywhere would be a fine place to live, I think.\""
+            ]
+        },
+        "21_0": {
+            "lines": [
+                "<r$Minamitsu  >\"This sacred palanquin was sealed underground for many",
+                "<l$> years, along with my companions like Ichirin and Shou.\""
+            ]
+        },
+        "22_0": {
+            "lines": [
+                "<r$Minamitsu  >\"We were finally freed at the end of last year.",
+                "<l$> We're living on the ship until we decide where to stay.\""
+            ]
+        },
+        "23_0": {
+            "lines": [
+                "<r$Byakuren  >\"Hm, I see."
+            ]
+        },
+        "24_0": {
+            "lines": [
+                "<l$> I don't think I'd mind wandering around forever, though."
+            ]
+        },
+        "25_0": {
+            "lines": [
+                "<l$> Just flying through the skies...\""
+            ]
+        },
+        "26_0": {
+            "lines": [
+                "<r$Reimu  >\"Hey, now, you can't just fly around forever."
+            ]
+        },
+        "27_0": {
+            "lines": [
+                "<l$> This ship's gonna cast huge shadows everywhere.\""
+            ]
+        },
+        "28_0": {
+            "lines": [
+                "<r$Byakuren  >\"That's true. I suppose we'll spend every third day",
+                "<l$> of sightseeing on the ground, then.\""
+            ]
+        },
+        "29_0": {
+            "lines": [
+                "<r$Minamitsu  >\"Roger that!\""
+            ]
+        },
+        "30_0": {
+            "lines": [
+                "Reimu suggested they decorate their ship as a treasure ship",
+                "in order to attract customers."
+            ]
+        },
+        "31_0": {
+            "lines": [
+                "Byakuren agreed and accepted her idea surprisingly easily."
+            ]
+        },
+        "32_0": {
+            "lines": [
+                "And so, the rumors of the flying treasure ship that had been",
+                "circulating Gensokyo came true, at least for a while."
+            ]
+        },
+        "33_0": {
+            "lines": [
+                "The treasure ship cruise was popular among humans and youkai."
+            ]
+        },
+        "34_0": {
+            "lines": [
+                "Sometimes humans and youkai would end up onboard at the same time,",
+                "but the youkai were never hunted then;"
+            ]
+        },
+        "35_0": {
+            "lines": [
+                "Byakuren was surprised at how much the world had changed;",
+                "youkai were no longer victims."
+            ]
+        },
+        "36_0": {
+            "lines": [
+                "Reimu didn't really understand what Byakuren was on guard about;"
+            ]
+        },
+        "37_0": {
+            "lines": [
+                "but she had an idea why Byakuren had been sealed away."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "She was too powerful and willing to aid humans and youkai",
+                "without distinction, so the humans got mad and sealed her away."
+            ]
+        },
+        "39_0": {
+            "lines": [
+                "Nobody would fear powerful humans anymore, though."
+            ]
+        },
+        "40_0": {
+            "lines": [
+                "Byakuren and her youkai friends would never be sealed away again."
+            ]
+        },
+        "41_0": {
+            "lines": [
+                "　"
+            ]
+        },
+        "41_1": {
+            "lines": [
+                "<c$Ending No.01 — The Cruise Ship of Gensokyo's Spring.$>"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "<c$Congratulations, all clear! Just as I'd expected!$>"
+            ]
+        }
+    }
+}

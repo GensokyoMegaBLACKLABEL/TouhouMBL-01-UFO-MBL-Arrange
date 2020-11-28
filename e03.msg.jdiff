@@ -1,0 +1,51 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Marisa  >Hokkai, a part of Makai."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "Marisa was caught by Byakuren, and was unable to return home."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "At first, she was happy about it, but..."
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "<r$Marisa  >\"There's no point in getting all this treasure",
+                "<l$> if I can't even get back home."
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "<l$> There's no way for me to study it here.\""
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "Marisa's mistake had been not realizing her escape route had",
+                "been cut off while she was distracted by treasure."
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "She decided to focus on how to get back home for now."
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "<c$Ending No.10 — Others will tire of your caution.$>"
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "<c$Go for a one-credit clear!$>"
+            ]
+        }
+    }
+}

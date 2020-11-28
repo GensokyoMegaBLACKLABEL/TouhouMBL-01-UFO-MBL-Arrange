@@ -1,0 +1,192 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Marisa  $Reimu  >The Hakurei Shrine."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "It's a shrine on the eastern edge of Gensokyo."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "There was little shade of snow left on the shrine grounds."
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "The cherry blossoms would probably be out soon."
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "<r$Marisa  >\"Maaakaiiii, la la laaaa~\""
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "<r$Reimu  >\"Well, you're in a good mood.\""
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "<r$Marisa  >\"Yeah, something good happened.\""
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "<r$Reimu  >\"Was it that treasure ship?",
+                "<l$> You were saying you were gonna sneak on board.\""
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "<r$Marisa  >\"Ah, it wasn't a treasure ship.\""
+            ]
+        },
+        "9_0": {
+            "lines": [
+                "<r$Reimu  >\"I knew it.\""
+            ]
+        },
+        "10_0": {
+            "lines": [
+                "<r$Marisa  >\"That ship was headed for Makai."
+            ]
+        },
+        "11_0": {
+            "lines": [
+                "<l$> They were flying off to save their friend there.\""
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "<r$Reimu  >\"In Makai?"
+            ]
+        },
+        "13_0": {
+            "lines": [
+                "<l$> Why are you in such a good mood, then?\""
+            ]
+        },
+        "14_0": {
+            "lines": [
+                "<r$Marisa  >\"I rode along with them all the way to Makai,",
+                "<l$> so I found a lot of neat stuff.\""
+            ]
+        },
+        "15_0": {
+            "lines": [
+                "<r$Marisa  >\"This is a magic stone, and this is a Makai mushroom.",
+                "<l$> I even got some Makai crackers at a souvenir stand.\""
+            ]
+        },
+        "16_0": {
+            "lines": [
+                "<r$Reimu  >\"Hm, Makai. I don't think I'd want to go there.\""
+            ]
+        },
+        "17_0": {
+            "lines": [
+                "<r$Marisa  >\"They let me ride back on that ship, and they even said",
+                "<l$> they'll take me to Makai again any time I want to go."
+            ]
+        },
+        "18_0": {
+            "lines": [
+                "<l$> I'll be able to get all kinds of rare stuff now!\""
+            ]
+        },
+        "19_0": {
+            "lines": [
+                "<r$Reimu  >\"Hmmm."
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "<l$> So it was a Makai cruise ship, not a treasure ship.\""
+            ]
+        },
+        "21_0": {
+            "lines": [
+                "<r$Reimu  >\"But, if that ship can go back and forth to Makai so easily,"
+            ]
+        },
+        "22_0": {
+            "lines": [
+                "<l$> why would they let you ride with them?\""
+            ]
+        },
+        "23_0": {
+            "lines": [
+                "<r$Marisa  >\" 'cuz we had a fight, and I won.\""
+            ]
+        },
+        "24_0": {
+            "lines": [
+                "<r$Reimu  >\"I knew it."
+            ]
+        },
+        "25_0": {
+            "lines": [
+                "<l$> I just knew you'd end up fighting someone on that ship.\""
+            ]
+        },
+        "26_0": {
+            "lines": [
+                "<r$Marisa  >\"She was the captain, actually.\""
+            ]
+        },
+        "27_0": {
+            "lines": [
+                "Marisa asked Byakuren to let her continue to go freely",
+                "between Gensokyo and Makai."
+            ]
+        },
+        "28_0": {
+            "lines": [
+                "Byakuren liked Marisa's direct personality, so she asked Murasa",
+                "to let her go wherever she pleased."
+            ]
+        },
+        "29_0": {
+            "lines": [
+                "As a fellow magician, Byakuren told Marisa to come see her if",
+                "she ever had any trouble."
+            ]
+        },
+        "30_0": {
+            "lines": [
+                "\"Of course - I broke your seal, after all,\" Marisa said,",
+                "and resolved to make as much of Byakuren's offer as possible."
+            ]
+        },
+        "31_0": {
+            "lines": [
+                "But there was still the question of the UFOs she'd used to break the seal."
+            ]
+        },
+        "32_0": {
+            "lines": [
+                "Byakuren wasn't any help figuring out why they looked that way."
+            ]
+        },
+        "33_0": {
+            "lines": [
+                "Marisa thought there was still some mystery to be solved."
+            ]
+        },
+        "34_0": {
+            "lines": [
+                "<c$Ending No.03 — Makai tours: Reasonable prices!$>"
+            ]
+        },
+        "35_0": {
+            "lines": [
+                "<c$Congratulations, all clear! Just as I'd expected!$>"
+            ]
+        }
+    }
+}

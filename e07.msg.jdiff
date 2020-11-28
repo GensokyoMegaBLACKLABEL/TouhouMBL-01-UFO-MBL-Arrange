@@ -1,0 +1,227 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Byakuren  $Reimu  >The Hakurei Shrine."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "It's a shrine on the eastern edge of Gensokyo."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "There was little shade of snow left on the shrine grounds."
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "The cherry blossoms would probably be out soon."
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "<r$Byakuren  >\"Is this your shrine?\""
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "<r$Reimu  >\"Woah, don't scare me like that!"
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "<l$> What are you doing here, anyway?\""
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "<r$Byakuren  >\"Gods and Buddhas must show each other respect, too.\""
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "<r$Reimu  >\"Hmm. Of course.\""
+            ]
+        },
+        "9_0": {
+            "lines": [
+                "<r$Byakuren  >\"Nobody... Really worships at this shrine, do they?\""
+            ]
+        },
+        "10_0": {
+            "lines": [
+                "<r$Reimu  >\"Geh. W-what makes you say that?\""
+            ]
+        },
+        "11_0": {
+            "lines": [
+                "<r$Byakuren  >\"Well, the god here is so mad.\""
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "<r$Reimu  >\"Eh?\""
+            ]
+        },
+        "13_0": {
+            "lines": [
+                "<r$Byakuren  >\"Maybe you should spend time getting more visitors",
+                "<l$> instead of just hunting youkai all the time.\""
+            ]
+        },
+        "14_0": {
+            "lines": [
+                "<r$Reimu  >\"A-anyway, don't you live in Makai?",
+                "<l$> Is it okay to just go back and forth like this?\""
+            ]
+        },
+        "15_0": {
+            "lines": [
+                "<r$Byakuren  >\"I used to be from here, too, like Murasa and the others."
+            ]
+        },
+        "16_0": {
+            "lines": [
+                "<l$> I've come to find a way to live here in peace.\""
+            ]
+        },
+        "17_0": {
+            "lines": [
+                "<r$Reimu  >\"In peace?\""
+            ]
+        },
+        "18_0": {
+            "lines": [
+                "<r$Byakuren  >\"Seeing your lonely, empty shrine has made up my mind."
+            ]
+        },
+        "19_0": {
+            "lines": [
+                "<l$> I believe I'll build a temple.\""
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "<r$Reimu  >\"Youkai... Living peacefully in a temple?\""
+            ]
+        },
+        "21_0": {
+            "lines": [
+                "<r$Byakuren  >\"Yes, we'll reject violence in pursuit of enlightenment.\""
+            ]
+        },
+        "22_0": {
+            "lines": [
+                "<r$Reimu  >\"Ah...\""
+            ]
+        },
+        "23_0": {
+            "lines": [
+                "<r$Byakuren  >\"I'm confident in Buddhism, even after seeing this."
+            ]
+        },
+        "24_0": {
+            "lines": [
+                "<l$> We'll gain followers and slowly grow to be the greatest",
+                "<l$> Buddhist temple in the world."
+            ]
+        },
+        "25_0": {
+            "lines": [
+                "<l$> Yes... I'll name the temple after my brother..."
+            ]
+        },
+        "26_0": {
+            "lines": [
+                "<l$> The Myouren Temple! That's perfect!\""
+            ]
+        },
+        "27_0": {
+            "lines": [
+                "<r$Reimu  >\"Hey, are you making yourself out to be my rival?"
+            ]
+        },
+        "28_0": {
+            "lines": [
+                "<l$> I'm not gonna go easy on you, okay?\""
+            ]
+        },
+        "29_0": {
+            "lines": [
+                "<r$Byakuren  >\"Your rival? I won't be doing any youkai hunting."
+            ]
+        },
+        "30_0": {
+            "lines": [
+                "<l$> I've always extended the hand of salvation to youkai."
+            ]
+        },
+        "31_0": {
+            "lines": [
+                "<l$> To those poor youkai oppressed by the shrine maiden...\""
+            ]
+        },
+        "32_0": {
+            "lines": [
+                "The ship that flew through the sky landed close to the human",
+                "village, turning into nothing more than an old granary."
+            ]
+        },
+        "33_0": {
+            "lines": [
+                "That granary was remodeled into a modest temple."
+            ]
+        },
+        "34_0": {
+            "lines": [
+                "It was called the \"Myouren Temple.\""
+            ]
+        },
+        "35_0": {
+            "lines": [
+                "The (so-called) treasure ship landing and turning into",
+                "a temple created an uproar in the village."
+            ]
+        },
+        "36_0": {
+            "lines": [
+                "Rumors flew around, like \"These people are lucky\" and \"There's some",
+                "amazing boddhisatva there,\" making the temple popular with humans."
+            ]
+        },
+        "37_0": {
+            "lines": [
+                "It was originally built for youkai, but since Byakuren treated",
+                "humans and youkai the same, the temple accepted all comers."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "Except humans who were just looking for treasure from the treasure ship."
+            ]
+        },
+        "39_0": {
+            "lines": [
+                "Needless to say, Reimu was depressed by how easily Byakuren",
+                "picked up followers."
+            ]
+        },
+        "40_0": {
+            "lines": [
+                "　"
+            ]
+        },
+        "40_1": {
+            "lines": [
+                "<c$Ending No.02 — The Myouren Temple came down from the sky.$>"
+            ]
+        },
+        "41_0": {
+            "lines": [
+                "<c$Congratulations, all clear! Just as I'd expected!$>"
+            ]
+        }
+    }
+}
